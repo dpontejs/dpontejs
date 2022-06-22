@@ -17,13 +17,13 @@ Sou brasileiro e estudante de engenharia da computação na UFRN.
 ### Detalhes
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpontejs&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpontejs&theme=dark&show_icons=true&count_private=true">
 
 ### Linguagens mais utilizadas  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpontejs&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpontejs&theme=dark&layout=compact&langs_count=5">
 
 ### Contribuições
   
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dpontejs&theme=default">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dpontejs&theme=dark">
 </div>
