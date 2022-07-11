@@ -1,29 +1,14 @@
-# Diego Medeiros Ponte
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">A proud brazilian with a passion for software development.</h3>
 
-<a href="https://www.github.com/dpontejs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="mailto:dpontejs@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpontejs&label=Profile%20views&color=0e75b6&style=flat" alt="dpontejs" /> </p>
 
-### Olá!!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dpontejs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dpontejs" height="30" width="40" /></a>
+</p>
 
-Sou brasileiro e estudante de engenharia da computação na UFRN.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-### Habilidades
-
-<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
-
-### Detalhes
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpontejs&theme=dark&show_icons=true&count_private=true">
-
-### Linguagens mais utilizadas  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpontejs&theme=dark&layout=compact&langs_count=5">
-
-### Contribuições
-  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dpontejs&theme=dark">
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpontejs&show_icons=true&locale=en&layout=compact" alt="dpontejs" /></p>
