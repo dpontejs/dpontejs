@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:2563EB&height=190&section=header&text=Diego%20Ponte&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%C2%B7%20Natal%2C%20Brazil&descSize=18&descAlignY=56&animation=fadeIn" alt="Diego Ponte — Machine Learning Engineer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,100:4B8BBE&height=190&section=header&text=Diego%20Ponte&fontSize=52&fontColor=FFD43B&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%C2%B7%20Natal%2C%20Brazil&descSize=18&descAlignY=56&animation=fadeIn" alt="Diego Ponte — Machine Learning Engineer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Machine+Learning+Engineer;Computer+Vision+%26+Medical+Imaging;RAG+%26+Multi-Agent+Systems;Deep+Learning+with+PyTorch;LLMs+in+real-world+applications" alt="Machine Learning Engineer · Computer Vision · RAG & Multi-Agent Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=620&lines=Machine+Learning+Engineer;Computer+Vision+%26+Medical+Imaging;RAG+%26+Multi-Agent+Systems;Deep+Learning+with+PyTorch;LLMs+in+real-world+applications" alt="Machine Learning Engineer · Computer Vision · RAG & Multi-Agent Systems"/>
 </p>
 
 <p align="center">
@@ -40,8 +40,8 @@ Machine Learning Engineer with 2+ years of hands-on experience building **Machin
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square&logoColor=white)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-6E40C9?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-3776AB?style=flat-square&logoColor=white)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-3776AB?style=flat-square&logoColor=white)
 
 **MLOps, Backend & Data**
 
@@ -83,5 +83,5 @@ Machine Learning Engineer with 2+ years of hands-on experience building **Machin
 </picture>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:6E40C9&height=110&section=footer" alt=""/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=110&section=footer" alt=""/>
 </p>
