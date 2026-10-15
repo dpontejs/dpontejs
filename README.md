@@ -58,8 +58,8 @@ Machine Learning Engineer with 2+ years of hands-on experience building **Machin
 
 | Role | Where | When |
 |---|---|---|
-| **AI Engineer** — GenAI apps, RAG pipelines, multi-agent systems | Metrópole Digital — IMD/UFRN | 2026 |
-| **Machine Learning Engineer** — Computer Vision for medical imaging (digitized slides) | Intersistemas | 2025 – 2026 |
+| **AI Engineer** — GenAI apps, RAG pipelines, multi-agent systems | Metrópole Digital — IMD/UFRN | 2026 – present |
+| **Machine Learning Engineer** — Computer Vision for medical imaging (digitized slides) | Intersistemas | 2025 – present |
 | **Data Analyst** — BI dashboards for public transparency | Controladoria-Geral do Estado do RN | 2025 |
 | **Computer Vision Engineer** — water-level estimation from images | UFRN | 2024 – 2025 |
 | **ML & Software Engineer** — student performance prediction + backend | iRede | 2024 |
