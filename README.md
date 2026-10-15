@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Diego Ponte 👋</h1>
-<h3 align="center">Machine Learning Engineer · AI Engineering & Computer Vision · Deep Learning, RAG & LLMs</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:2563EB&height=190&section=header&text=Diego%20Ponte&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%C2%B7%20Natal%2C%20Brazil&descSize=18&descAlignY=56&animation=fadeIn" alt="Diego Ponte — Machine Learning Engineer"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Machine+Learning+Engineer;Computer+Vision+%26+Medical+Imaging;RAG+%26+Multi-Agent+Systems;Deep+Learning+with+PyTorch;LLMs+in+real-world+applications" alt="Machine Learning Engineer · Computer Vision · RAG & Multi-Agent Systems"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/diegopontejs"><img src="https://img.shields.io/badge/LinkedIn-diegopontejs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -69,9 +74,14 @@ Machine Learning Engineer with 2+ years of hands-on experience building **Machin
 | [**bd_dca**](https://github.com/dpontejs/bd_dca) | Clinic management dashboard with public healthcare data analysis (CNES/DataSUS) | MySQL · Streamlit · Docker |
 | [**ml_stanford**](https://github.com/dpontejs/ml_stanford) | Labs from the Machine Learning Specialization — neural nets, K-means, reinforcement learning | Python · TensorFlow · NumPy |
 
-### 📊 GitHub stats
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpontejs/dpontejs/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpontejs/dpontejs/output/github-snake.svg"/>
+  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/dpontejs/dpontejs/output/github-snake.svg"/>
+</picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dpontejs&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpontejs&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:6E40C9&height=110&section=footer" alt=""/>
 </p>
