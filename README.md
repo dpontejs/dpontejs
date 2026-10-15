@@ -69,6 +69,8 @@ Machine Learning Engineer with 2+ years of hands-on experience building **Machin
 
 | Project | Description | Stack |
 |---|---|---|
+| [**infra**](https://github.com/dpontejs/infra) | Infrastructure as code for the VPS behind [diegoponte.dev](https://diegoponte.dev): Terraform, Ansible, Docker + Caddy (HTTPS), **pull-based deploys with automatic rollback**, every step documented as a guide | Terraform · Ansible · Docker · Python |
+| [**portfolio**](https://github.com/dpontejs/portfolio) | Source of [diegoponte.dev](https://diegoponte.dev): bilingual Astro site, unit + e2e + image tests, deployed on every merge | Astro · TypeScript · Playwright · Docker |
 | [**classificacao_voz**](https://github.com/dpontejs/classificacao_voz) | Speech command classifier (35 classes) built on a **Wav2Vec2** backbone — **95.37% test accuracy** on Speech Commands, with a Gradio demo | PyTorch · Transformers · torchaudio |
 | [**flamengo-news**](https://github.com/dpontejs/flamengo-news) | Automated news curation pipeline with **LLM summarization** and a scheduled email newsletter | Python · Gemini · Pydantic · GitHub Actions |
 | [**prontuario-agil**](https://github.com/dpontejs/prontuario-agil) | Web system for medical clinics: patient self-scheduling and electronic health records | Django · Python |
