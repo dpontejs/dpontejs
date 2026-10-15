@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://diegoponte.dev"><img src="https://img.shields.io/badge/Website-diegoponte.dev-306998?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Website: diegoponte.dev"/></a>
   <a href="https://linkedin.com/in/diegopontejs"><img src="https://img.shields.io/badge/LinkedIn-diegopontejs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dpontejs@gmail.com"><img src="https://img.shields.io/badge/Email-dpontejs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Natal-Brazil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Natal, Brazil"/>
